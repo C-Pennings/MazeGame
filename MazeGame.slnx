@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MazeGame/MazeGame.vcxproj" />
+  <Project Path="MazeGame/MazeGame.vcxproj" Id="84766162-f2e0-4882-8e9e-649adb5b1d02" />
 </Solution>
